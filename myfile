@@ -10,3 +10,9 @@ background-color:black;
 color:white;
 font-style:nono;
 }
+a.visit
+{
+background-color:pink;
+color:yellow;
+font-style:underline;
+}
