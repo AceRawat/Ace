@@ -1,0 +1,16 @@
+body
+{
+background-color:white;
+font-size:30px;
+font-family:arial;
+}
+p
+{
+font-size:20px;
+color-pink;
+}
+h1
+{
+font-size:25px;
+color-yellow;
+}
