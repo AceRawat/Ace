@@ -1,0 +1,12 @@
+a.
+{
+background-color:white;
+color:black;
+font-family:vali;
+}
+a.hover
+{
+background-color:black;
+color:white;
+font-style:nono;
+}
